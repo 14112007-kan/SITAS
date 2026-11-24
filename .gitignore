@@ -10,5 +10,6 @@ storage/surat/*
 # PHP / editor / OS files
 *.log
 .vscode/
+.git/
 Thumbs.db
 .DS_Store
