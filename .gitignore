@@ -1,0 +1,14 @@
+# Environment and local configuration
+config/config.php
+
+# Uploaded files and runtime storage
+storage/bab/*
+storage/naskah/*
+storage/proposal/*
+storage/surat/*
+
+# PHP / editor / OS files
+*.log
+.vscode/
+Thumbs.db
+.DS_Store
